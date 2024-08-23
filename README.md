@@ -8,7 +8,7 @@
 
 # 발표 현황
 
-| **주차** | **학습 내용** | **과제** | **발표자** | ** 발표 날짜 ** |
+| **주차** | **학습 내용** | **과제** | **발표자** | **발표 날짜** |
 |----------|---------------|----------|----------|----------|
 | **1주차** | 1. Word Vectors, Word Window Classification, Language Models (1, 2강) <br> 2. Backprop and Neural Networks & Dependency Parsing (3, 4강) | - | - | - |
 | **2주차** | 1. Recurrent Neural Networks and Language Models & LSTM RNNs (5강, 6강 일부) <br> 2. Neural Machine Translation (6강) & Self-Attention and Transformers (6강 일부, 7강) | - | - | - |
