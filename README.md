@@ -4,7 +4,6 @@
 - cs224n syllabus: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/index.html#schedule
 - cs224n youtube: https://www.youtube.com/playlist?list=PLQdCGOoR3Oqb9RWevPjMUMwM6nvc0U98F
 
----
 
 # 발표 현황
 
