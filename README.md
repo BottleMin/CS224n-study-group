@@ -18,8 +18,8 @@
 |    7     |    2-2     |            Translation, Seq2Seq, Attention (2021)             |  -  |   -   |
 |    8     |    2-2     |            Self-Attention and Transformers (2023)             |  -  |   -   |
 |    9     |    3-1     |                      Pretraining (2023)                       |  -  |   -   |
-|    10    |    3-1     | Prompting, Reinforcement Learning from Human Feedback (2023강) |  -  |   -   |
-|    11    |    3-2     |              Natural Language Generation (2023강)              |  -  |   -   |
+|    10    |    3-1     | Prompting, Reinforcement Learning from Human Feedback (2023) |  -  |   -   |
+|    11    |    3-2     |              Natural Language Generation (2023)              |  -  |   -   |
 |    12    |    3-2     |                   Question Answering (2021)                   |  -  |   -   |
 |    13    |    4-1     |                 Coreference Resolution (2021)                 |  -  |   -   |
 |    14    |    4-1     |          Insights between NLP and Linguistics (2023)          |  -  |   -   |
