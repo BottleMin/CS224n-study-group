@@ -9,8 +9,8 @@
 
 | 강의 번호 | 주차 및 일자 |                             학습 내용                             | 발표자 | 발표 날짜 |
 | :---: | :-----: | :-----------------------------------------------------------: | :-: | :---: |
-|   1   |   1-1   |                  Intro & Word Vectors (2021)                  |  박병민  |   -   |
-|   2   |   1-1   |                   Neural Classifiers (2021)                   |  박병민  |   -   |
+|   1   |   1-1   |                  Intro & Word Vectors (2021)                  |  박병민  |   09-03   |
+|   2   |   1-1   |                   Neural Classifiers (2021)                   |  박병민  |   09-03   |
 |   3   |   1-2   |              Backprop and Neural Networks (2021)              |  -  |   -   |
 |   4   |   1-2   |       Syntactic Structure and Dependency Parsing (2021)       |  -  |   -   |
 |   5   |   2-1   |            Recurrent Neural networks (RNNs) (2021)            |  -  |   -   |
