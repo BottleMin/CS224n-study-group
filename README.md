@@ -7,12 +7,27 @@
 
 # 발표 현황
 
-| **주차** | **학습 내용** | **과제** | **발표자** | **발표 날짜** |
-|----------|---------------|----------|----------|----------|
-| **1주차** | 1. Word Vectors, Word Window Classification, Language Models (1, 2강) <br> 2. Backprop and Neural Networks & Dependency Parsing (3, 4강) | - | - | - |
-| **2주차** | 1. Recurrent Neural Networks and Language Models & LSTM RNNs (5강, 6강 일부) <br> 2. Neural Machine Translation (6강) & Self-Attention and Transformers (6강 일부, 7강) | - | - | - |
-| **3주차** | 1. Pretraining (8강) <br> 2. Natural Language Generation (9강) | - | - | - |
-| **4주차** | 1. Prompting, Reinforcement Learning from Human Feedback (10강) <br> 2. Question Answering (11강) <br> 3. Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords (12%) | Assignment 4 발표 | - | - |
-| **5주차** | 1. ConvNets, Tree Recursive Neural Networks and Constituency Parsing (12강) <br> 2. Insights between NLP and Linguistics & Code Generation (13강, 14강) | - | - | - |
-| **6주차** | 1. Multimodal Deep Learning & Coreference Resolution (15강, 16강) <br> 2. Analysis and Interpretability Basics, Model Interpretability and Editing (17강, 18강) | - | - | - |
-| **7주차** | 1. 4주차에 Assignment 4 발표 못했을 경우, 이때 발표 <br> 2. Assignment 5: Self-supervised learning and fine-tuning with Transformers (12%) | Assignment 5 발표 | - | - |
+| 강의 번호 | 주차 및 일자 |                             학습 내용                             | 발표자 | 발표 날짜 |
+| :---: | :------ | :-----------------------------------------------------------: | :-: | :---: |
+|   1   | 1-1     |                  Intro & Word Vectors (2021)                  |  -  |   -   |
+|   2   | 1-1     |                   Neural Classifiers (2021)                   |  -  |   -   |
+|   3   | 1-2     |              Backprop and Neural Networks (2021)              |  -  |   -   |
+|   4   | 1-2     |       Syntactic Structure and Dependency Parsing (2021)       |  -  |   -   |
+|   5   | 2-1     |            Recurrent Neural networks (RNNs) (2021)            |  -  |   -   |
+|   6   | 2-1     |                  Simple and LSTM RNNs (2021)                  |  -  |   -   |
+|   7   | 2-2     |            Translation, Seq2Seq, Attention (2021)             |  -  |   -   |
+|   8   | 2-2     |            Self-Attention and Transformers (2023)             |  -  |   -   |
+|   9   | 3-1     |                      Pretraining (2023강)                      |  -  |   -   |
+|  10   | 3-1     | Prompting, Reinforcement Learning from Human Feedback (2023강) |  -  |   -   |
+|  11   | 3-2     |              Natural Language Generation (2023강)              |  -  |   -   |
+|  12   | 3-2     |                  Question Answering (2021강)                   |  -  |   -   |
+|  13   | 4-1     |                Coreference Resolution (2021강)                 |  -  |   -   |
+|  14   | 4-1     |         Insights between NLP and Linguistics (2023강)          |  -  |   -   |
+|       |         |                      **Assignment 4 발표**                      |     |       |
+|  15   | 4-2     |           Add Knowledge to Language Models (2021강)            |  -  |   -   |
+|  16   | 4-2     |                    Code Generation (2023강)                    |  -  |   -   |
+|  17   | 5-1     |            Model Analysis and Explanation (2021강)             |  -  |   -   |
+|  18   | 5-1     |             Future of NLP + Deep Learning (2021강)             |  -  |   -   |
+|  19   | 6-1     |         Multimodal Deep Learning, Douwe Kiela (2023강)         |  -  |   -   |
+|  20   | 6-1     |                Model Interpretability (2021강)                 |  -  |   -   |
+|       |         |                      **Assignment 5 발표**                      |     |       |
