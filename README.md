@@ -7,10 +7,10 @@
 
 # 발표 현황
 
-| 강의 번호 | 주차 및 일자 |                             학습 내용                             | 발표자 | 발표 날짜 |
+| 강의 번호 | 주차 및 일자 |                             학습 내용 (강의자료 년도)                            | 발표자 | 발표 날짜 |
 | :---: | :-----: | :-----------------------------------------------------------: | :-: | :---: |
-|   1   |   1-1   |                  Intro & Word Vectors (2021)                  |  박병민  |   09-03   |
-|   2   |   1-1   |                   Neural Classifiers (2021)                   |  박병민  |   09-03   |
+|   1   |   1-1   |                  Intro & Word Vectors (2021)                  |  -  |   -   |
+|   2   |   1-1   |                   Neural Classifiers (2021)                   |  -  |   -   |
 |   3   |   1-2   |              Backprop and Neural Networks (2021)              |  -  |   -   |
 |   4   |   1-2   |       Syntactic Structure and Dependency Parsing (2021)       |  -  |   -   |
 |   5   |   2-1   |            Recurrent Neural networks (RNNs) (2021)            |  -  |   -   |
@@ -23,11 +23,11 @@
 |  12   |   3-2   |                  Question Answering (2021강)                   |  -  |   -   |
 |  13   |   4-1   |                Coreference Resolution (2021강)                 |  -  |   -   |
 |  14   |   4-1   |         Insights between NLP and Linguistics (2023강)          |  -  |   -   |
-|       |         |                      **Assignment 4 발표**                      |     |       |
-|  15   |   4-2   |           Add Knowledge to Language Models (2021강)            |  -  |   -   |
-|  16   |   4-2   |                    Code Generation (2023강)                    |  -  |   -   |
-|  17   |   5-1   |            Model Analysis and Explanation (2021강)             |  -  |   -   |
-|  18   |   5-1   |             Future of NLP + Deep Learning (2021강)             |  -  |   -   |
+|       |   4-2   |                      **Assignment 4 발표**                      |     |       |
+|  15   |   5-1   |           Add Knowledge to Language Models (2021강)            |  -  |   -   |
+|  16   |   5-1   |                    Code Generation (2023강)                    |  -  |   -   |
+|  17   |   5-2   |            Model Analysis and Explanation (2021강)             |  -  |   -   |
+|  18   |   5-2   |             Future of NLP + Deep Learning (2021강)             |  -  |   -   |
 |  19   |   6-1   |         Multimodal Deep Learning, Douwe Kiela (2023강)         |  -  |   -   |
 |  20   |   6-1   |                Model Interpretability (2021강)                 |  -  |   -   |
-|       |         |                      **Assignment 5 발표**                      |     |       |
+|       |   6-2   |                      **Assignment 5 발표**                      |     |       |
