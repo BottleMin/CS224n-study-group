@@ -12,8 +12,8 @@
 | :------: | :--------: | :-----------------------------------------------------------: | :-: | :---: |
 |    1     |    1-1     |                  Intro & Word Vectors (2021)                  | 박병민 | 09-03 |
 |    2     |    1-1     |                   Neural Classifiers (2021)                   | 박병민 | 09-03 |
-|    3     |    1-2     |              Backprop and Neural Networks (2021)              |  -  |   -   |
-|    4     |    1-2     |       Syntactic Structure and Dependency Parsing (2021)       |  -  |   -   |
+|    3     |    1-2     |              Backprop and Neural Networks (2021)              |  배지섭  | 09-05 |
+|    4     |    1-2     |       Syntactic Structure and Dependency Parsing (2021)       |  배지섭  | 09-05 |
 |    5     |    2-1     |            Recurrent Neural networks (RNNs) (2021)            |  -  |   -   |
 |    6     |    2-1     |                  Simple and LSTM RNNs (2021)                  |  -  |   -   |
 |    7     |    2-2     |            Translation, Seq2Seq, Attention (2021)             |  -  |   -   |
