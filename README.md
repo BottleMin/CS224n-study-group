@@ -14,10 +14,10 @@
 |    2     |    1-1     |                   Neural Classifiers (2021)                   | 박병민 | 09-03 |
 |    3     |    1-2     |              Backprop and Neural Networks (2021)              |  배지섭  | 09-05 |
 |    4     |    1-2     |       Syntactic Structure and Dependency Parsing (2021)       |  배지섭  | 09-05 |
-|    5     |    2-1     |            Recurrent Neural networks (RNNs) (2021)            |  -  |   -   |
-|    6     |    2-1     |                  Simple and LSTM RNNs (2021)                  |  -  |   -   |
-|    7     |    2-2     |            Translation, Seq2Seq, Attention (2021)             |  -  |   -   |
-|    8     |    2-2     |            Self-Attention and Transformers (2023)             |  -  |   -   |
+|    5     |    2-1     |            Recurrent Neural networks (RNNs) (2021)            |  박병민  | 09-09 |
+|    6     |    2-1     |                  Simple and LSTM RNNs (2021)                  |  박병민  | 09-09 |
+|    7     |    2-2     |            Translation, Seq2Seq, Attention (2021)             |  배지섭  | 09-12 |
+|    8     |    2-2     |            Self-Attention and Transformers (2023)             |  배지섭  | 09-12 |
 |    9     |    3-1     |                      Pretraining (2023)                       |  -  |   -   |
 |    10    |    3-1     | Prompting, Reinforcement Learning from Human Feedback (2023) |  -  |   -   |
 |    11    |    3-2     |              Natural Language Generation (2023)              |  -  |   -   |
