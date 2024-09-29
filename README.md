@@ -21,14 +21,10 @@
 |    9     |    3-1     |                      Pretraining (2023)                       |  박병민  | 09-26 |
 |    10    |    3-1     | Prompting, Reinforcement Learning from Human Feedback (2023) |  박병민  | 09-24 |
 |    11    |    3-2     |              Natural Language Generation (2023)              | 배지섭 | 09-26 |
-|    12    |    3-2     |                   Question Answering (2021)                   |  -  |   -   |
-|    13    |    4-1     |                 Coreference Resolution (2021)                 |  -  |   -   |
-|    14    |    4-1     |          Insights between NLP and Linguistics (2023)          |  -  |   -   |
-|    15    |    4-2     |            Add Knowledge to Language Models (2021)            |  -  |   -   |
-|    16    |    4-2     |                    Code Generation (2023)                     |  -  |   -   |
-|    17    |    5-1     |             Model Analysis and Explanation (2021)             |  -  |   -   |
-|    18    |    5-1     |             Future of NLP + Deep Learning (2021)              |  -  |   -   |
-|    19    |    5-2     |                Multimodal Deep Learning (2023)                |  -  |   -   |
-|    20    |    5-2     |                 Model Interpretability (2021)                 |  -  |   -   |
+|    12    |    4-1     |                   Question Answering (2021)                   |  -  |   -   |
+|    13    |    4-2     |            Add Knowledge to Language Models (2021)            |  -  |   -   |
+|    14    |    5-1     |             Model Analysis and Explanation (2021)             |  -  |   -   |
+|    15    |    5-2     |                Multimodal Deep Learning (2023)                |  -  |   -   |
+|    16    |    6-1     |                 Model Interpretability (2021)                 |  -  |   -   |
 |          |    -     |                      **Assignment 4 발표**                      |     |  11-04   |
 |          |    -     |                      **Assignment 5 발표**                      |     |  11-18   |
